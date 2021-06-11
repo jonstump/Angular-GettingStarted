@@ -58,5 +58,5 @@ export class ProductListComponent {
     'starRating': 4.6,
     'imageUrl': 'assets/images/xbox-controller.png'
   }
-];
+  ];
 }
